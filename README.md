@@ -3,5 +3,5 @@
 ```
  Student ID: 20047239
  Student name: Chung Lau
- UFCFVQ-15-M - Programming for data science 20jan_1
+ MSc programme information: UFCFVQ-15-M - Programming for data science 20jan_1
 ```
